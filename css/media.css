@@ -1,0 +1,1051 @@
+@media(max-width:575px){
+    .container{
+        width:100%;
+    }
+    .w-xs-1{
+        width:8.33%;
+    }
+    .w-xs-2{
+        width:16.66%;
+    }
+    .w-xs-3{
+        width:25%;
+    }
+    .w-xs-4{
+        width:33.33%;
+    }
+    .w-xs-5{
+        width:41.66%;
+    }
+    .w-xs-6{
+        width:50%;
+    }
+    .w-xs-7{
+        width:58.33%;
+    }
+    .w-xs-8{
+        width:66.66%;
+    }
+    .w-xs-9{
+        width:75%;
+    }
+    .w-xs-10{
+        width:83.33%;
+    }
+    .w-xs-11{
+        width:91.66%;
+    }
+    .w-xs-12{
+        width:100% !important;
+    }
+    .d-xs-none{
+        display: none;
+    }
+    .d-xs-flex{
+        display: flex;
+    }
+    .d-xs-block{
+        display: block;
+    }
+    .j-co-xs-end{
+        justify-content:flex-end;
+    }
+    .jus-xs-co-center{
+        justify-content: center;
+    }
+    .j-co-xs-space-b{
+        justify-content: space-between;
+    }
+    .pad-top40 {
+        padding-top: 72px;
+    
+    }
+    /* main section */
+    .banner{
+        height: 333px;
+    }
+    .img{
+        height: 245px;
+        width: 245px;
+    }
+    .content-text h1{
+        font-size: 44px;
+    }
+    .content-font{
+        font-size: 44px;
+    }
+    .btn{
+        padding: 10px 20px;
+    }
+    /* media section */
+    /* ptodoct */
+    .product{
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    .content-box{
+        margin: 0px 15px 10px 15px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    .content-box-1{
+        /* margin: 0px 15px 10px 15px; */
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    .product-2{
+        border-top-right-radius: 20px;
+    }
+
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    /* section 2 */
+    .co-had{
+        font-size: 32px;
+    }
+
+
+
+    /* special offer */
+    .dil-had h2{
+        font-size: 32px;
+    }
+    .cabbage{
+        height: auto;
+        width: 100%;
+        left:1%;
+    }
+    /* why-chose us */
+    .why-had{
+        font-size: 32px;
+        color: #282932;
+    }
+    /* footer */
+    .fo-had h2{
+        font-size: 36px;
+    }
+    .fo-had h3{
+        font-size: 28px;
+    }
+    .circale{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border: 2px solid white; 
+        display: flex;
+        font-size: 25px;
+        align-items: center;
+        justify-content: center;
+        transition: all 1s;
+    }
+    .circale a{
+        color: aliceblue;
+        font-size: 20px;
+    }
+    
+}
+@media(min-width:576px){
+    .container{
+        width:540px;
+    }
+    .w-s-1{
+        width:8.33%;
+    }
+    .w-s-2{
+        width:16.66%;
+    }
+    .w-s-3{
+        width:25%;
+    }
+    .w-s-4{
+        width:33.33%;
+    }
+    .w-s-5{
+        width:41.66%;
+    }
+    .w-s-6{
+        width:50%;
+    }
+    .w-s-7{
+        width:58.33%;
+    }
+    .w-s-8{
+        width:66.66%;
+    }
+    .w-s-9{
+        width:75%;
+    }
+    .w-s-10{
+        width:83.33%;
+    }
+    .w-s-11{
+        width:91.66%;
+    }
+    .w-s-12{
+        width: 100% !important;
+    }
+    .d-s-none{
+        display: none;
+    }
+    .d-s-flex{
+        display: flex;
+    }
+    .d-s-block{
+        display: block;
+    }
+    .j-co-s-end{
+        justify-content:flex-end;
+    }
+    .j-co-s-space-b{
+        justify-content: space-between;
+    }
+
+    /* main section */
+    .banner{
+        height: 333px;
+    }
+    .img{
+        height: 245px;
+        width: 245px;
+    }
+   
+    .food1 img{
+        position: relative;
+        bottom: -20%;
+        right: -5%;
+    }
+    .content-text h1{
+        font-size: 42px;
+    }
+    .content-font{
+        font-size: 42px;
+    }
+    .btn{
+        padding: 10px 20px;
+    }
+    /* ptodoct */
+    .product{
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    .content-box{
+        margin: 0px 15px 10px 15px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    .content-box-1{
+        /* margin: 0px 15px 10px 15px; */
+         margin: 0px 0px 10px 0px; 
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    .product-2{
+        border-top-right-radius: 20px;
+    }
+    
+
+
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+
+
+    
+    /* section 2 */
+    .co-had{
+        font-size: 38px;
+    }
+    /* special offer */
+    .dil-had h2{
+        font-size: 36px;
+    }
+    /* why-chose us */
+    .why-had{
+        font-size: 32px;
+        color: #282932;
+    }
+   .li-tag{
+        font-size: 20px;
+        color: #282932;
+    }
+    .li-tag .mony{
+        font-size: 20px;
+        color: #b80818;
+    }
+    .li-tag p{
+        font-size: 15px;
+        color:#333333;
+    }
+    /* footer */
+    .fo-had h2{
+        font-size: 38px;
+    }
+    .pad-top40 {
+        padding-top: 72px;
+    
+    }
+    
+}
+@media(min-width:768px){
+    .container{
+        width:720px;
+    }
+    .w-m-1{
+        width:8.33%;
+    }
+    .w-m-2{
+        width: 16.66% !important;
+    }
+    .w-m-3{
+        width:25%;
+    }
+    .w-m-4{
+        width: 33.33% !important;;
+    }
+    .w-m-5{
+        width:41.66%;
+    }
+    .w-m-6{
+        width: 50% !important;
+    }
+    .w-m-7{
+        width:58.33%;
+    }
+    .w-m-8{
+        width:66.66%;
+    }
+    .w-m-9{
+        width:75%;
+    }
+    .w-m-10{
+        width:83.33%;
+    }
+    .w-m-11{
+        width:91.66%;
+    }
+    .w-m-12{
+        width:100%;
+    }
+    .d-m-none{
+        display: none;
+    }
+    .d-m-flex{
+        display: flex;
+    }
+    .d-m-block{
+        display: block;
+    }
+    .j-co-m-end{
+        justify-content:flex-end;
+    }
+    .j-co-m-space-b{
+        justify-content: space-between;
+    }
+    /* main section */
+    .pad-top40 {
+        padding-top: 42px;
+    
+    }
+    .content-text h1{
+        font-size: 59px;
+    }
+    .content-font{
+        font-size: 59px;
+    }
+    .banner{
+        height: 415px;
+    }
+    .img{
+        height: 343px;
+        width: 327px;
+    }
+    .food1 img{
+        width: 280px;
+        position: relative;
+        bottom: -20%;
+        right: -5%;
+    }
+     /* ptodoct */
+     .product{
+        border-radius: 20px;
+    }
+    /* .content-box{
+        margin: 0px 0px;
+        height: 90%;
+        border-radius: 20px;
+        height: 90%;
+    } */
+    .content-box{
+        margin: 0px 15px 10px 15px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        aspect-ratio: 1 / 1;
+
+    }
+    .product-2{
+        border-top-right-radius: 20px;
+    }
+    
+
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    /* section 2 */
+    .co-had{
+        font-size: 42px;
+    }
+    .chilli{
+        position: absolute;
+        top: 700px;
+        left: -60px;
+    }
+    .tomato{
+        position: absolute;
+        bottom: 200px;
+        right: 0px;
+    }
+    .veg{
+        position: absolute;
+        bottom: 20px;
+        right: 0px;
+    }
+    /* spcialoffer */
+    .dil-had h2{
+        font-size: 40px;
+    }
+    /* why-chose us */
+    .why-had{
+        font-size: 44px;
+        color: #282932;
+    }
+    .m-i-1{
+        font-size: 40px;
+    }
+    .m-h-1{
+        font-size: 13px;
+    }
+    .img-1{
+        height: 45px;
+        width: 45px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .li-tag{
+        font-size: 13px;
+        color: #282932;
+    }
+    .li-tag .mony{
+        font-size: 13px;
+        color: #b80818;
+    }
+    .li-tag p{
+        font-size: 9px;
+        color:#333333;
+    }
+    /* footer */
+    .fo-had h2{
+        font-size: 35px;
+    }
+    .fo-had h3{
+        font-size: 28px;
+    }
+}
+@media(min-width:992px){
+    .container{
+        width:960px;
+    }
+    .w-l-1{
+        width:8.33%;
+    }
+    .w-l-2{
+        width:16.66%;
+    }
+    .w-l-3{
+        width:25%;
+    }
+    .w-l-4{
+        width:33.33% !important;
+    }
+    .w-l-5{
+        width:41.66%;
+    }
+    .w-l-6{
+        width:50%;
+    }
+    .w-l-7{
+        width:58.33%;
+    }
+    .w-l-8{
+        width:66.66% !important;
+    }
+    .w-l-9{
+        width:75%;
+    }
+    .w-l-10{
+        width:83.33%;
+    }
+    .w-l-11{
+        width:91.66%;
+    }
+    .w-l-12{
+        width: 100% !important;
+    }
+    .d-l-none{
+        display: none;
+    }
+    .d-l-flex{
+        display: flex;
+    }
+    .d-l-block{
+        display: block;
+    }
+    .j-co-l-end{
+        justify-content:flex-end;
+    }
+    .j-co-l-space-b{
+        justify-content: space-between;
+    }
+   
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /* main section */
+    .food1 img{
+        width: 320px;
+        position: relative;
+        bottom: -20%;
+        /* right: -0%; */
+    }
+    .content-text h1{
+        font-size: 77px;
+    }
+    .content-font{
+        font-size: 77px;
+    }
+    .banner{
+        height: 460px;
+    }
+    .img{
+        height: 444px;
+        width: 424px;
+    }
+    .food1{
+        width: 295px;
+    }
+    .tag-line{
+        font-size: 59px;
+    }
+
+
+
+
+
+
+
+
+
+
+    /* section 2 */
+    .co-had{
+        font-size: 48px;
+    }
+    .chilli{
+        position: absolute;
+        top: 900px;
+        left: -60px;
+    }
+    .tomato{
+        position: absolute;
+        bottom: 200px;
+        right: 0px;
+    }
+    .veg{
+        position: absolute;
+        bottom: 20px;
+        right: 0px;
+    }
+    .spoon{
+        position: absolute;
+         bottom: 350px;
+        left: 50px;
+        transition: all 2s;
+    }
+    .knife{
+        position: absolute;
+        bottom: 350px;
+        right: 50px;
+        transition: all 2s;
+    }
+    /* spcialoffer */
+    .dil-had h2{
+        font-size: 48px;
+    }
+    /* why-chose us */
+    .img-1{
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .li-tag{
+        font-size: 19px;
+        color: #282932;
+    }
+    .li-tag .mony{
+        font-size: 20px;
+        color: #b80818;
+    }
+    .li-tag p{
+        font-size: 14px;
+        color:#333333;
+    }
+    /* footer */
+    .fo-had h2{
+        font-size: 48px;
+    }
+    .fo-had h3{
+        font-size: 40px;
+    }
+   
+}
+@media(min-width:1200px){
+    .container{
+        width: 1140px;;
+    }
+    .w-xl-1{
+        width:8.33%;
+    }
+    .w-xl-2{
+        width: 16.66% !important;;
+    }
+    .w-xl-3{
+        width:25% !important;
+    }
+    .w-xl-4{
+        width: 33.33% !important;
+    }
+    .w-xl-5{
+        width:41.66%;
+    }
+    .w-xl-6{
+        width: 50% !important;
+    }
+    .w-xl-7{
+        width:58.33%;
+    }
+    .w-xl-8{
+        width:66.66% !important;
+    }
+    .w-xl-9{
+        width:75%;
+    }
+    .w-xl-10{
+        width:83.33%;
+    }
+    .w-xl-11{
+        width:91.66%;
+    }
+    .w-xl-12{
+        width:100%;
+    }
+    .d-xl-none{
+        display: none;
+    }
+    .d-xl-flex{
+        display: flex;
+    }
+    .d-xl-block{
+        display: block;
+    }
+    .j-co-xl-end{
+        justify-content:flex-end;
+    }
+    .j-co-xl-space-b{
+        justify-content: space-between;
+    }
+
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    /* main section */
+    .food1 img{
+        width: 350px;
+        position: relative;
+        bottom: -20%;
+        /* right: -0%; */
+    }
+    .banner{
+        height: 539px;
+        width: 100%;
+    }
+    .line{
+        width: 100%;
+    }
+    .img{
+        width: 538px;
+    }
+    .food1{
+        width: 395px;
+    }
+    .content-text h1{
+        font-size: 80px;
+    }
+    .content-font{
+        font-size: 80px;
+    }
+    .content-font::after{
+        display: block;
+    }
+    .content-font::before{
+        display: block;
+    }
+    .tag-line{
+        font-size: 59px;
+    }
+    .btn{
+        padding: 15px 30px;
+    }
+    
+
+    /* product */
+    .products{
+        padding-top: 40px;
+    }
+    .product{
+        height: 100%;
+        width:100%;
+        aspect-ratio: 1 / 1;
+        border-radius: 20px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .product-1{
+        background-image: url(../images/product-1.jpg);
+        height: 420px;
+    }
+    .product-2{
+        background-image: url(../images/product-2.jpg);
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        height: 415px;
+    }
+    .product-3{
+        background-image: url(../images/product-3.jpg);
+        height: 420px;
+    }
+    .content-box-1{
+        margin: 0px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 20px;
+        aspect-ratio: 1 / 1;
+        height: 415px;
+    }
+
+    /* section 2 */
+    .dish{
+        aspect-ratio: 1 / 1;
+    }
+    .cabbage{
+        top:-50px;
+        left: -80px;
+    }
+    .knife{
+        bottom: -100px;
+        right: 50px;
+    }
+    .spoon{
+         bottom: -100px;
+        left: 50px;
+    }
+    .chilli{
+        top: 700px;
+        left: -20px;
+    }
+    .tomato{
+        bottom: 200px;
+        right:70px;
+    }
+    .veg{
+        bottom: 20px;
+        right: 70px;
+    }
+    .co-had{
+        font-size: 50px;
+    }
+    /* spcialoffer */
+    .dil-had h2{
+        font-size: 50px;
+    }
+    /* why-chose us */
+    .m-i-1{
+        font-size: 50px;
+    }
+    .m-h-1{
+        font-size: 16px;
+    }
+    /* lists */
+    .img-1{
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .li-tag{
+        font-size: 20px;
+        color: #282932;
+    }
+    .li-tag .mony{
+        font-size: 20px;
+        color: #b80818;
+    }
+    .li-tag p{
+        font-size: 17px;
+        color:#333333;
+    }
+}
+@media(min-width:1400px){
+    .container{
+        width: 1320px;;
+    }
+    .w-xxl-1{
+        width:8.33%;
+    }
+    .w-xxl-2{
+        width: 16.66% !important;;
+    }
+    .w-xxl-3{
+        width:25%;
+    }
+    .w-xxl-4{
+        width:33.33% !important;
+    }
+    .w-xxl-5{
+        width:41.66%;
+    }
+    .w-xxl-6{
+        width:50% !important;
+    }
+    .w-xxl-7{
+        width:58.33%;
+    }
+    .w-xxl-8{
+        width:66.66%;
+    }
+    .w-xxl-9{
+        width:75%;
+    }
+    .w-xxl-10{
+        width:83.33%;
+    }
+    .w-xxl-11{
+        width:91.66%;
+    }
+    .w-xxl-12{
+        width:100%;
+    }
+    .d-xxl-none{
+        display: none;
+    }
+    .d-xxl-flex{
+        display: flex;
+    }
+    .d-xxl-block{
+        display: block;
+    }
+    .j-co-xxl-end{
+        justify-content:flex-end;
+    }
+    .j-co-xxl-space-b{
+        justify-content: space-between;
+    }
+    .j-co-xxl-cen{
+        justify-content: center;
+    }
+    
+    /* main section */
+    .food1 img{
+        width: 540px;
+        position: relative;
+        bottom: -20%;
+        /* right: -0%; */
+    }
+    .banner{
+        height: 900px;
+        width: 100%;
+    }
+    .line{
+        width: 100%;
+    }
+    .food1{
+        width: 550px;
+    }
+    .img{
+        width: 850px;
+        height: 850px;
+    }
+    .content-text h1{
+        font-size: 93px;
+    }
+    .content-font{
+        font-size: 93px;
+    }
+    .content-font::after{
+        display: block;
+    }
+    .content-font::before{
+        display: block;
+    }
+    .tag-line{
+        font-size: 69px;
+    }
+    .btn{
+        padding: 20px 40px;
+    }
+    
+
+
+    
+    /* form */
+    .btn{
+        text-align: center;
+    }
+    .bg-img-form{
+        background-image: url(../images/pasta-bg-03.png);
+         aspect-ratio: 1 / 1;
+         background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .content-box-1{
+        margin: 0px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 20px;
+        aspect-ratio: 1 / 1;
+        height: 415px;
+    }
+
+
+
+    /* section 2 */
+    .dish{
+        aspect-ratio: 1 / 1;
+    }
+    .cabbage{
+        top:-50px;
+        left: -80px;
+    }
+    .knife{
+        bottom: -100px;
+        right: 50px;
+    }
+    .spoon{
+         bottom: -100px;
+        left: 50px;
+    }
+    .chilli{
+        top: 700px;
+        left: -20px;
+    }
+    .tomato{
+        bottom: 200px;
+        right:70px;
+    }
+    .veg{
+        bottom: 20px;
+        right: 70px;
+    }
+    .co-had{
+        font-size: 60px;
+    }
+    /* spcialoffer */
+    .dil-had h2{
+        font-size: 50px;
+    }
+    /* why-chose us */
+    .m-i-1{
+        font-size: 50px;
+    }
+    .m-h-1{
+        font-size: 16px;
+    }
+    /* lists */
+    .img-1{
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .li-tag{
+        font-size: 22px;
+        color: #282932;
+    }
+    .li-tag .mony{
+        font-size: 22px;
+        color: #b80818;
+    }
+    .li-tag p{
+        font-size: 20px;
+        color:#333333;
+    }
+}

@@ -155,6 +155,10 @@
         color: aliceblue;
         font-size: 20px;
     }
+    header{
+        top: 0%;
+        left: 5%;
+    }
     
 }
 @media(min-width:576px){
@@ -310,7 +314,10 @@
         padding-top: 72px;
     
     }
-    
+    header{
+        top: 0%;
+        left: 6%;
+    }
 }
 @media(min-width:768px){
     .container{
@@ -487,6 +494,11 @@
     .fo-had h3{
         font-size: 28px;
     }
+    header{
+        top: 0%;
+        left: 6%;
+    }
+    
 }
 @media(min-width:992px){
     .container{
@@ -543,7 +555,10 @@
     .j-co-l-space-b{
         justify-content: space-between;
     }
-   
+    header{
+        top: 0%;
+        left: 4%;
+    }
     /* form */
     .btn{
         text-align: center;
@@ -651,6 +666,9 @@
     }
     .fo-had h3{
         font-size: 40px;
+    }
+    header{
+        left: 2%;
     }
    
 }
@@ -860,6 +878,9 @@
         font-size: 17px;
         color:#333333;
     }
+    header{
+        left: 0%;
+    }
 }
 @media(min-width:1400px){
     .container{
@@ -919,7 +940,9 @@
     .j-co-xxl-cen{
         justify-content: center;
     }
-    
+    header{
+        left: 6%;
+    }
     /* main section */
     .food1 img{
         width: 540px;

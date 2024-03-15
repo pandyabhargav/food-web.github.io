@@ -2,6 +2,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+.d-flex-w{
+  display: flex;
+}
 .container {
   width: 1140px;
   margin: 0 auto;
@@ -97,6 +100,9 @@ a {
 /* justyfy content end  */
 .jus-con-end {
   justify-content: flex-end;
+}
+.jus-xs-co-center{
+  justify-content: center;
 }
 .jus-co-center {
   justify-content: center;
@@ -450,7 +456,7 @@ img {
 /* section-2 */
 .section-2 {
 }
-.dish {
+.dish img{
   aspect-ratio: 1 / 1;
 }
 .cabbage {
@@ -460,6 +466,11 @@ img {
   z-index: -1;
   transition: all 3s;
 }
+.cabbage img{
+  background-image: cover;
+  overflow: hidden;
+}
+
 .section-2:hover .cabbage {
   top: -90px;
   left: -150px;

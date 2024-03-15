@@ -116,7 +116,11 @@
     .co-had{
         font-size: 32px;
     }
-
+    .food1 img{
+        position: relative;
+        bottom: -15%;
+        right: -5%;
+    }
 
 
     /* special offer */
@@ -159,6 +163,9 @@
         top: 0%;
         left: 5%;
     }
+    .content-text h1 ,.content-font{
+        font-size: 30px;
+      }
     
 }
 @media(min-width:576px){
